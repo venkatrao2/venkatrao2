@@ -1,0 +1,5 @@
+PUBLIC CLASS VENKAT{
+public static void main(String args[]){
+List<Integer>lst
+
+System.out.println("the java code is executed");
